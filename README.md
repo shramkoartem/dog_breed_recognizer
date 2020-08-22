@@ -54,7 +54,7 @@ The second and main section is devoted to building a dog breed classification mo
 
 The main dog breed classification model was built by applying transfer learning technique. A pretrained [ResNet18](https://arxiv.org/abs/1512.03385) with fixed parameters has been selected as core. An additional Linear layer with 133 outut features has been added to serve as a dog breed classifier. 
 
-Third step describes UX. In this particualar problem setting, a simple printed image with predicted class is foreseen as an output. 
+**Third step** describes UX. In this particualar problem setting, a simple printed image with predicted class is foreseen as an output. 
 
 
 
