@@ -13,6 +13,8 @@ This project is devoted to building a dog breed classification app based on the 
 
 For the intertainment purposes, the model is also intended to be able to accept pictures of humans as an input and return the name of the dog breed the submited person on a picture resembles the most.
 
+Please view the [final report](report.pdf) that contains detailled description of the project.
+
 The core of the application is implemented in the [dog_app.ipynb](dog_app.ipynb) Jupyter Notebook.  
 It accepts path to the image and returns output of a form:
 
@@ -24,7 +26,7 @@ It accepts path to the image and returns output of a form:
 
 ![dog input example](images/spaniel.jpg)
 
-Detailed description can be found in [project proposal](Proposal/Proposal.pdf) document.
+Detailed description of project setup can be found in [project proposal](Proposal/Proposal.pdf) document.
 
 ## How to use
 
